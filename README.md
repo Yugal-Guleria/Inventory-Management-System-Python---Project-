@@ -102,3 +102,7 @@ Removes an item from inventory
 Beginner to intermediate level project focused on practical Python development.
 
 ---
+
+## Output
+<img width="285" height="794" alt="Screenshot 2026-04-07 181455" src="https://github.com/user-attachments/assets/bcc8afb9-cd84-406b-aad0-572de04a9f7e" />
+
