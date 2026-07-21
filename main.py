@@ -1,3 +1,5 @@
+1
+
 ADVANCED INVENTORY MANAGEMENT SYSTEM
 
 #Createed and data stojage disc named inventory 
